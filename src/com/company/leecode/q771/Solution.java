@@ -1,4 +1,4 @@
-package com.company.q771;
+package com.company.leecode.q771;
 
 import java.util.HashSet;
 import java.util.Set;

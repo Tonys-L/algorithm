@@ -1,4 +1,4 @@
-package com.company.q2;
+package com.company.leecode.q2;
 
 class Solution {
 
